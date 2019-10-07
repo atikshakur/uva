@@ -9,7 +9,7 @@ int main(){
 
         if(i%2 == 0 || i%3 == 0 || i%5 == 0){
             mCount++;
-            if(mCount == 1499) {
+            if(mCount == 1500) {
             cout<<"The 1500'th ugly number is "<<i<<".";
             break;
             }
